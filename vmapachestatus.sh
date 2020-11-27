@@ -75,7 +75,7 @@ fi
 
 #####TESTING REMOTELY######
 #declare -A domains
-#domains=([x0]="www.jardsit.com" [x1]="3mfm.com.au" [x2]="jardsit.com/no")
+#domains=([x0]="www.jardsit.com" [x1]="jardsit.com/no")
 
 
 check_status(){
